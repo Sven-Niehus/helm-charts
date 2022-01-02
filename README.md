@@ -26,4 +26,4 @@ helm delete <chart>
 
 | Chart                                                                                                     | Version  |     AppVersion      |
 | --------------------------------------------------------------------------------------------------------- | :------: | :-----------------: |
-| [`cloudflared`](https://github.com/Sven-Niehus/helm-charts/tree/main/charts/snapdrop)                     | `1.0.0`  |   `c8c728ba-ls37`   |
+| [`snapdrop`](https://github.com/Sven-Niehus/helm-charts/tree/main/charts/snapdrop)                        | `1.0.0`  | `c8c728ba-ls37`     |
