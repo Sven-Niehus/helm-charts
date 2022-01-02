@@ -23,6 +23,7 @@ version: 1.0.0
 # It is recommended to use it with quotes.
 appVersion: "c8c728ba-ls37"
 
+home: https://github.com/Sven-Niehus/helm-charts/tree/gh-pages/charts/snapdrop
 maintainers:
   - name: Sven Niehus
     email: info@niehus.eu
