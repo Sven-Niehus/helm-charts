@@ -3,6 +3,25 @@ entries:
   snapdrop:
   - apiVersion: v2
     appVersion: c8c728ba-ls37
+    created: "2022-01-03T13:56:05.204624605Z"
+    description: Snapdrop for Kubernetes
+    digest: d5166f8dd239a5e1e1f5f59f81ac9bd8e6959155769c6fe16f3defc034fe29ec
+    home: https://github.com/Sven-Niehus/helm-charts/tree/main/charts/snapdrop
+    maintainers:
+    - email: info@niehus.eu
+      name: Sven Niehus
+      url: https://sven.niehus.eu
+    name: snapdrop
+    sources:
+    - https://github.com/Sven-Niehus/helm-charts/tree/main/charts/snapdrop
+    - https://github.com/linuxserver/docker-snapdrop
+    - https://github.com/RobinLinus/snapdrop
+    type: application
+    urls:
+    - https://github.com/Sven-Niehus/helm-charts/releases/download/snapdrop-1.0.2/snapdrop-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: c8c728ba-ls37
     created: "2022-01-03T13:18:35.441061742Z"
     description: Snapdrop for Kubernetes
     digest: b1c127a351de601470bdbfbf9e08b1ab1bd89666844e1786e4b5b55de4d947b5
@@ -31,4 +50,4 @@ entries:
     urls:
     - https://github.com/Sven-Niehus/helm-charts/releases/download/snapdrop-1.0.0/snapdrop-1.0.0.tgz
     version: 1.0.0
-generated: "2022-01-03T13:18:35.441074342Z"
+generated: "2022-01-03T13:56:05.204637205Z"
